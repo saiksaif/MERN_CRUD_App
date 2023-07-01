@@ -27,6 +27,8 @@ Use `npm run dev` for starting server.
 
 User `npm start` for starting react project.
 
+Also don't forget to create a `.env` file in backend project's root folder or src folder to link it to your mongodb database.
+
 # Files:
 
 In server project, change database url to your own mongodb url.
